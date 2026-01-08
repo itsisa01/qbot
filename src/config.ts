@@ -2,14 +2,14 @@ import { ActivityType } from 'discord.js';
 import { BotConfig } from './structures/types'; 
 
 export const config: BotConfig = {
-    groupId: 0,
+    groupId: 34114375,
     slashCommands: true,
     legacyCommands: {
         enabled: true,
         prefixes: ['q!'],
     },
     permissions: {
-        all: [''],
+        all: ['1451440288647348298'],
         ranking: [''],
         users: [''],
         shout: [''],
